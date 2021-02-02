@@ -1,4 +1,4 @@
-# PPSC_task_0: Water Bottle Refiller
+# PPSC_task_9: Water Bottle Refiller
 **| difficulty: 2/10 |**
 
 For a new middle school in your town, you are tasked to program the water bottle refillers to be placed in the halls. When a bottle is detected, it will only be refilled if it is less than half full. Then, you have to calculate how much water must be dispensed. 
